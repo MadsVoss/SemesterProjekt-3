@@ -1,0 +1,33 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://www.w3schools.com/w3css/4/w3.css");
+@import url("https://www.w3schools.com/w3css/4/w3.css");
+@import url("https://www.w3schools.com/lib/w3-theme-black.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+
+
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+
+
+
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    font-size: 28px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+table{
+    margin-top: 80px;
+}
